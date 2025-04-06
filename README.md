@@ -1,7 +1,7 @@
 # stackmat.ts
 Interface for the Yuxin Timer V2 in TypeScript, using the HTML Audio API
 
-** Usage
+## Usage
 This has only been tested in NextJS 15 using the app router. Put this file in some folder, import it in a client component and make sure the client component is mounted before rendering and creating the timer.
 Example:
 
